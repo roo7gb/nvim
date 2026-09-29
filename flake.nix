@@ -66,6 +66,7 @@
                     lsp.servers = [ "nixd" ];
                   };
                   python.enable = true;
+                  rust.enable = true;
                   toml.enable = true;
                   typescript.enable = true;
                   xml.enable = true;
