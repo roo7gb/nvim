@@ -52,6 +52,7 @@
                   enableFormat = true;
 
                   clang.enable = true;
+                  csharp.enable = true;
                   cmake.enable = true;
                   css.enable = true;
                   docker.enable = true;
